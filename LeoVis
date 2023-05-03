@@ -1,0 +1,7 @@
+Program leovis calculates the amount of time a satellite spends above
+certain elevations levels per day as a function of latitude.  The satellite
+must be in a near circular orbit for this to work well.  Run and answer the
+questions.  Source is provided so you can change the elevation and latitude
+points as desired.
+
+73, Courtney, n5bf @ pacsat-12 or wb6ymh
