@@ -1,0 +1,2 @@
+2M 5El scaled log periodic from HF design data.
+Approximates ELK antenna

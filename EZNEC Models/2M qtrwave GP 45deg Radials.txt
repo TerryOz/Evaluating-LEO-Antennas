@@ -1,0 +1,3 @@
+2M 1/4 wave ground plane with 45 degree radials.
+
+
